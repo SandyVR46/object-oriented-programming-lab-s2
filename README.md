@@ -1,4 +1,3 @@
-# Object Oriented Programming Lab - Java
 
 # :fire: Java OOP Problems & Solutions
 
