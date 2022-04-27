@@ -16,7 +16,7 @@ System.out.println("Enter the element to Search");
 String search = sc.nextLine();
 for( i=0;i<num;i++){
 if(word[i].equals(search)){
-x = i;
+x = i+1;
 state = true;
   }
 } if(state){
