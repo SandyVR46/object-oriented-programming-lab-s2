@@ -1,2 +1,2 @@
 # :arrow_forward: OUTPUT 
-![output](https://user-images.githubusercontent.com/41688158/165051936-e3dadc23-8615-4fa1-a881-1db13340bb71.PNG)
+![Capture](https://user-images.githubusercontent.com/41688158/165455539-499118fd-f3fc-47aa-9ed9-b7c69856891d.PNG)
