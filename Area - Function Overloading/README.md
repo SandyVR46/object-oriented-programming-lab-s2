@@ -1,3 +1,3 @@
 # :arrow_forward: OUTPUT 
-![output](https://user-images.githubusercontent.com/41688158/168968856-e751924e-bcfd-4728-a422-61f74fa96526.PNG)
 
+![output](https://user-images.githubusercontent.com/41688158/168970239-04ff1100-7645-4109-b74f-360823282a96.PNG)
