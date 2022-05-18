@@ -38,9 +38,9 @@ public static void main(String p[]) throws IOException
     case 2:
          System.out.print("\n Enter the length of first side : ");
          int l1 =c.nextInt();
-         System.out.print("\n Enter the lenght of second side : ");
+         System.out.print("\n Enter the length of second side : ");
          int l2 =c.nextInt();
-         System.out.print("\n Enter the lenght of third side : ");
+         System.out.print("\n Enter the length of third side : ");
          int l3 =c.nextInt();
          d.findarea(l1,l2,l3);
          break;
